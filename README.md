@@ -39,8 +39,6 @@ You can change the company variable in the code to predict the stock price for a
 Acknowledgments
 This project is inspired by various research in the field of financial forecasting and leverages open-source tools such as TensorFlow, yfinance, and scikit-learn.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
 Feel free to reach out if you have any questions or if you want to contribute to the project.
